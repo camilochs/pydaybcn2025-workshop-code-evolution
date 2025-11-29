@@ -7,6 +7,7 @@ Level: Beginner/Intermediate
 
 Requirements: Basic Python knowledge, familiarity with APIs
 
+[Slides - Presentation](https://github.com/camilochs/pydaybcn2025-workshop-code-evolution/blob/main/Code%20Evolution%20-%20Self-Improving%20Software%20with%20LLMs%20and%20Python_compressed.pdf)
 ## Abstract
 
 What if your code could fix its own bugs, evolve better solutions, and create new capabilities on demand? This workshop explores the intersection of Large Language Models and evolutionary computation to build software that improves itself.
