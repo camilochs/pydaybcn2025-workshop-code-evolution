@@ -16,15 +16,15 @@ Through four hands-on demos, participants will implement increasingly sophistica
 
 ## Workshop Structure
 
-| Section | Duration | Description |
-|---------|----------|-------------|
-| Introduction | 10 min | Theory: Why combine Evolution + LLMs? |
-| Environment Setup | 5 min | API keys, Google Colab configuration |
-| Demo 1: Self-Reparation | 15 min | Basic error correction loop |
-| Demo 2: Code Evolution | 25 min | Genetic algorithms with LLM operators |
-| Demo 3: Toolmaker | 20 min | Runtime self-modification |
-| Demo 4: Evolving Team | 25 min | Multi-agent prompt evolution |
-| Q&A / Discussion | 10 min | Security, ethics, and limitations |
+| Section | Description |
+|---------|-------------|
+| Introduction | Theory: Why combine Evolution + LLMs? |
+| Environment Setup |  API keys, Google Colab configuration |
+| Demo 1: Self-Reparation | Basic error correction loop |
+| Demo 2: Code Evolution | Genetic algorithms with LLM operators |
+| Demo 3: Toolmaker | Runtime self-modification |
+| Demo 4: Evolving Team | Multi-agent prompt evolution |
+| Q&A / Discussion | Security, ethics, and limitations |
 
 ## The Four Demos
 
