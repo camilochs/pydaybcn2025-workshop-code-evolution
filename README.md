@@ -24,7 +24,6 @@ Through four hands-on demos, participants will implement increasingly sophistica
 | Demo 2: Code Evolution | Genetic algorithms with LLM operators |
 | Demo 3: Toolmaker | Runtime self-modification |
 | Demo 4: Evolving Team | Multi-agent prompt evolution |
-| Q&A / Discussion | Security, ethics, and limitations |
 
 ## The Four Demos
 
