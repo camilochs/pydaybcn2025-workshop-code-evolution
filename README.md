@@ -221,6 +221,6 @@ MIT License - Feel free to use and adapt for your own workshops.
 
 ## Author
 
-[Camilo Chacón Sartori](www.camilochacon.com).
+[Camilo Chacón Sartori](https://www.camilochacon.com).
 
 Workshop developed for PyDay Barcelona 2025.
